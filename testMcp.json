@@ -49,6 +49,20 @@
                     }
                 ]
             }
+        },
+        {
+            "server": {
+                "name": "awslabs.aws-knowledge-mcp-server",
+                "title": "AWS Knowledge",
+                "description": "Remote MCP server for AWS docs, code samples, agent skills, and regional availability",
+                "version": "1.0.0",
+                "remotes": [
+                    {
+                        "type": "streamable-http",
+                        "url": "https://knowledge-mcp.global.api.aws"
+                    }
+                ]
+            }
         }
     ]
 }
