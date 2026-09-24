@@ -31,7 +31,7 @@
             "server": {
                 "name": "awslabs.aws-iac-mcp-server",
                 "title": "AWS Infrastructure as Code",
-                "description": "MCP server for AWS IaC: CloudFormation validation, CDK docs, and deployment help",
+                "description": "MCP server for AWS IaC: CloudFormation validation, CDK docs, and deployment help aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
                 "version": "1.0.26",
                 "packages": [
                     {
